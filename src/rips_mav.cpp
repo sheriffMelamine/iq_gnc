@@ -1,3 +1,5 @@
+//Code developed for autonomous navigation of sound source localization project
+
 /*
 * Install iq_sim and iq_gnc according to the tutorials
 * Copy this file to src/iq_gnc/
